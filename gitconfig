@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = harriott_47@hotmail.com
+	name = Jeremiah Harriott
